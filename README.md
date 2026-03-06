@@ -123,6 +123,7 @@ xychart-beta
 ### Cloud
 - [Aruba](https://www.aruba.it) 🇮🇹 - Cloud hosting and data center services.
 - [Cozy](https://www.cozy.io) 🇫🇷 - Privacy-first personal cloud for data management.
+- [Cubbit](https://www.cubbit.io/) 🇮🇹 - Sovereign, geo-distributed cloud object storage platform
 - [datacrunch](https://datacrunch.io/) 🇫🇮 - GPU cloud computing for AI/ML workloads.
 - [Elastx](https://www.elastx.se) 🇸🇪 - Managed cloud hosting with a focus on sustainability.
 - [Exoscale](https://www.exoscale.com) 🇨🇭 - Scalable cloud infrastructure for developers.
